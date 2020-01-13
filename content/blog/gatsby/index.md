@@ -1,6 +1,6 @@
 ---
 title: Gatsby
-date: "2020-01-12T04:31:25Z"
+date: "2020-01-13T04:31:25Z"
 description: This is Gatsby, a react-based framework for creating static sites
 ---
 
