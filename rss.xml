@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[This is a Thing]]></title><description><![CDATA[Just pointing out stuff I think is cool and talking about it]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Jan 2020 01:15:02 GMT</lastBuildDate><item><title><![CDATA[Gatsby]]></title><description><![CDATA[This is gatsby, a react-based framework for making static websites. Seems like a bit of a contradiction, seeing as react is supposed to be…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/gatsby/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/gatsby/</guid><pubDate>Mon, 13 Jan 2020 04:31:25 GMT</pubDate><content:encoded>&lt;p&gt;This is gatsby, a react-based framework for making static websites. Seems like a bit of a contradiction, seeing as react is supposed to be all about dynamic websites, but what gatsby offers instead is speed. Everything’s rendered at compile time, and every link on a page is prefetched.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ecc8f14f7184fb528162dae8504e5361/54ee3/gatsby-website.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 101.69133192389006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAACmUlEQVQ4y61UzU8TQRTvn+fBg4KaaNSDgRjiCUEjHyZ6N3rwZIEgRA/Gg4lSDElJMBAiBRKhwcSkFbHQbne3+9nd7vfPmVcWdgutHnzJ2/d23pvf/Gbem8k8vDaDx7fnMXlrHhM3XzM7hyd33uDpwFs8uj6L0f5pPLjCdQajsWVjo/1TJzpyrHw8I1Y0/Cr/hqIoaNkODN2EaTbRZEq2acE0jn3Tgq4Z8DwfQRAi8AOyruvBabk0nomiiDkegjDA/xAC5BKGIURRQqPRIDUNE6qqMmYmNFWDYRgQhDpkWYamaWQlSSLmHCPWE0Df97G+vo58Po/t7S3s7O5gbW0Nm5ubKBQKWPmygtXVVSwv5+l/aWkJuVwOxWIRMUYKkAtfzbL4OemMnUYqiTIUWSXbkBXGrMEY6vRv2y3oun4+ILecJT9PpaGw7cjtybqCpq2j5TYhSnXUqgLFjo6qlOuzQqQAY3ZJpkn5uSOi8LmEjcUS9nfFrsWI56cYJpUXiUtuehsvhhbw/O4nLExtnRQwCtP5Zxh2rnSaeDwJp3463tE23ei3AXpv79w+7JV8cHCAcrmM73t7KJVK5Fcqlb8z7Dy/ONG2bdbUvGV4Q0vU0Hys15xUH3YGuXgBu5qsPlxdP+ialypKZ5D+2d2mMhx+hfVxCMaHQYSHG3FGd4bJc3Mch5o7OWYrVZj7G/Br3xDaCi3iOK1/A6zXRQg1ga5fyPuM9ZtQl1ETFThst3zHYRCgWq3RbeJPGyfQFbBX9aLEl5o7CtPzeCxKAHquD9fxyca+63hoWgG8H4uklh204x153KYYilUVI1ezuH85237O+9rP+b2LLzE+OI9342N4PznB/DkMXHiG4b5XlMNzhy9lMXZjFkJFJcA/soXajGRnZQkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Gatsby Website&quot;
+        title=&quot;Gatsby Website&quot;
+        src=&quot;/static/ecc8f14f7184fb528162dae8504e5361/799d3/gatsby-website.png&quot;
+        srcset=&quot;/static/ecc8f14f7184fb528162dae8504e5361/00d96/gatsby-website.png 148w,
+/static/ecc8f14f7184fb528162dae8504e5361/0b23c/gatsby-website.png 295w,
+/static/ecc8f14f7184fb528162dae8504e5361/799d3/gatsby-website.png 590w,
+/static/ecc8f14f7184fb528162dae8504e5361/2a3d6/gatsby-website.png 885w,
+/static/ecc8f14f7184fb528162dae8504e5361/ae92f/gatsby-website.png 1180w,
+/static/ecc8f14f7184fb528162dae8504e5361/54ee3/gatsby-website.png 1892w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[First!]]></title><description><![CDATA[When I was at my first job, I’d often see something cool and post a link to slack saying “this is a thing”. I figured that people would see…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/first-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/first-post/</guid><pubDate>Sun, 12 Jan 2020 04:31:25 GMT</pubDate><content:encoded>&lt;p&gt;When I was at my first job, I’d often see something cool and post a link to slack saying “this is a thing”. I figured that people would see whatever it is and, if it was relevant to them, they’d probably know pretty quickly why I’d pointed it out.&lt;/p&gt;
+&lt;p&gt;Anyway, that’s what this blog is about. Hopefully you get something out of it.&lt;/p&gt;</content:encoded></item></channel></rss>
