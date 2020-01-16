@@ -1,6 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[This is a Thing]]></title><description><![CDATA[Just pointing out stuff I think is cool and talking about it]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Jan 2020 23:27:20 GMT</lastBuildDate><item><title><![CDATA[Forestry.io]]></title><description><![CDATA[So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/forestry-io/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/forestry-io/</guid><pubDate>Tue, 14 Jan 2020 06:00:00 GMT</pubDate><content:encoded>&lt;p&gt;So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is in, then tell it what kind of blog it is (gatsby, in my case), couple other things, and it handles your posts, post metadata, and images.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[This is a Thing]]></title><description><![CDATA[Just pointing out stuff I think is cool and talking about it]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 Jan 2020 23:28:56 GMT</lastBuildDate><item><title><![CDATA[Forestry.io]]></title><description><![CDATA[So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/forestry-io/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/forestry-io/</guid><pubDate>Tue, 14 Jan 2020 06:00:00 GMT</pubDate><content:encoded>&lt;p&gt;So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is in, then tell it what kind of blog it is (gatsby, in my case), couple other things, and it handles your posts, post metadata, and images.&lt;/p&gt;
 &lt;p&gt;I’m not sure if I’ll stick with it forever, or if I’ll switch to one of the countless other services that do something similar, but for the moment I’m happy with it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/forestry.png&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby]]></title><description><![CDATA[So, it makes sense to start this blog off by talking about the technology powering it. Everybody knows about react already, even outside the…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/gatsby/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/gatsby/</guid><pubDate>Mon, 13 Jan 2020 04:31:25 GMT</pubDate><content:encoded>&lt;p&gt;So, it makes sense to start this blog off by talking about the technology powering it. Everybody knows about react already, even outside the web world, but Gatsby was new to me, and I think it’s really cool. Basically, you build a mostly standard react-based site, run it through gatsby, and it spits out a static website for you. I haven’t figured out everything it can do yet, and I’m no great shakes at react yet anyway, but I’ve been super happy with it. It’s really fast, and makes a lot of things really easy.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/this-is-a-thing/static/128b284c02b27700914338761e4680c8/3cafe/forestry.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 99.65477560414269%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAADDUlEQVQ4y6VTSU8UQRTmL+gYObDIOsCwC/gTZDkBiUIGxIiSSHCJe7xoiImJFzEQjEi8eAKDBy8mckEPJsSbhmgMS6LALDIwvU3v3Z+vqmeGxRk9+JKvq6vq1ffe+15Vjqqq2NjYQCgUgqIoYOa6LgcY/mFu0seyLOi6jhzTNCFJEkRRhGEYabK9cFJwnH1IByazbRuMKwf/YXuDpowTyrKCcCSKTSo7HI5AEET8+LmOldU1RKJR2osgROvLK6v4vryCpa/f+F6aGLvEnFDTNE4SjW4hFtsmLRN83NmOkxwy4jsCn6+vM60jpHmIj57O+zP1CFWdHxLiAidhEOIirWuwLRuWaWUu2XH/QA77ZDMWyNAN6JoOx3a8xeTBVKCD4BkuLn7C8MhVXL95Bzdu3cXI5Wt4/GSCum5BoJIl0lgQqXRRQkLdQ57BOOHCwgf0BAdwfmgYg0MX0XfmHO7df0CHNWrKFiK/YohubfNRlTV+cP7dPMYej2H6+TSmnk2l8deSWVmu7XJYhlfSihSGAhOvZ+ZQXB2ALzcXRw774GM45KMM3f3isjk7zLRjc8dyOKFt0MXVTawloogZMvc7dWEQhQ11qAnUoLKiiiMjIctMJu0SiuqJTQHYmk3kSMqnJzR0DQwg318Of5kfZaXlhDKPkDsliVOEKh0wWZn0v9fYnD1Dgzrf3duL/IJCFBcWoZBGhoyElmnTAYNn5lJHv3xewqs3bzH//mPa19RMdPacxtG8PBwrKUFBfgFHFkKvTMf2GvZ0fAJDt0cxOv6CB2A+LGBPsA+lVQHUtTSjpqZuV8OshJYn2OSjh7g0cgWTL+d4g1KEwZ4gSopKUEtNqa6qRoW/MruGGmnISNmezN75Zoiep+gFIR+dLnhfsB8BIjre2IzGhiY00ZiZMKkhfxEHHoWT7DTbH+g/i+pALVqaT6ChvhH1dQ3ZM5QECRI9NVlSeDasURy8US4UWu/q7EY5XRlGxjJlVycjIRvZPRSpVAZFTvBrpCZU+le4z+zMLFpPtqK9rT2NjrYO/AZrBHvmTWnr0QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;forestry&quot;
+        title=&quot;forestry&quot;
+        src=&quot;/this-is-a-thing/static/128b284c02b27700914338761e4680c8/799d3/forestry.png&quot;
+        srcset=&quot;/this-is-a-thing/static/128b284c02b27700914338761e4680c8/00d96/forestry.png 148w,
+/this-is-a-thing/static/128b284c02b27700914338761e4680c8/0b23c/forestry.png 295w,
+/this-is-a-thing/static/128b284c02b27700914338761e4680c8/799d3/forestry.png 590w,
+/this-is-a-thing/static/128b284c02b27700914338761e4680c8/2a3d6/forestry.png 885w,
+/this-is-a-thing/static/128b284c02b27700914338761e4680c8/ae92f/forestry.png 1180w,
+/this-is-a-thing/static/128b284c02b27700914338761e4680c8/3cafe/forestry.png 1738w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby]]></title><description><![CDATA[So, it makes sense to start this blog off by talking about the technology powering it. Everybody knows about react already, even outside the…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/gatsby/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/gatsby/</guid><pubDate>Mon, 13 Jan 2020 04:31:25 GMT</pubDate><content:encoded>&lt;p&gt;So, it makes sense to start this blog off by talking about the technology powering it. Everybody knows about react already, even outside the web world, but Gatsby was new to me, and I think it’s really cool. Basically, you build a mostly standard react-based site, run it through gatsby, and it spits out a static website for you. I haven’t figured out everything it can do yet, and I’m no great shakes at react yet anyway, but I’ve been super happy with it. It’s really fast, and makes a lot of things really easy.&lt;/p&gt;
 &lt;p&gt;Check it out at &lt;a href=&quot;https://www.gatsbyjs.org/&quot; title=&quot;https://www.gatsbyjs.org/&quot;&gt;https://www.gatsbyjs.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
