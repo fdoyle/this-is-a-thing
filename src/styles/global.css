@@ -1,7 +1,7 @@
 html {
   --background-color: #221e21;
   background-color: var(--background-color);
-  --color-text-dark: #706d70;
+  --color-text-dark: #706e6e;
   --color-text: #fefefe;
 }
 
@@ -23,20 +23,17 @@ p {
   color: var(--color-text);
 }
 
-
-
 .link-decoration::before {
-    content: "▍";
-    background: linear-gradient(#e3008f, #d93819);
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    pointer-events: all;
-  }
+  content: "▍";
+  background: linear-gradient(#e3008f, #d93819);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  pointer-events: all;
+}
 
 .tag {
   font-weight: bold;
   color: var(--background-color);
-  font-style: italic;
   background-color: var(--color-text);
   padding: 3px 8px;
   border-radius: 100px;
