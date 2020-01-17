@@ -38,10 +38,21 @@ class BlogPostTemplate extends React.Component {
             >
               {post.frontmatter.date}
             </p>
-            <ul>
+
+          </header>
+          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          <hr
+            style={{
+              marginBottom: rhythm(1),
+            }}
+          />
+          <footer></footer>
+        </article>
+        <ul>
               {tags.map(tag => {
                 return (
                   <li
+                    className="tag"
                     style={{
                       display: `inline`,
                       fontSize: `12px`,
@@ -53,16 +64,6 @@ class BlogPostTemplate extends React.Component {
                 )
               })}
             </ul>
-          </header>
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr
-            style={{
-              marginBottom: rhythm(1),
-            }}
-          />
-          <footer></footer>
-        </article>
-
         <nav>
           <ul
             style={{
@@ -73,7 +74,7 @@ class BlogPostTemplate extends React.Component {
               padding: 0,
             }}
           >
-            <li>
+            <li >
               {previous && (
                 <Link to={previous.fields.slug} rel="prev">
                   ← {previous.frontmatter.title}

@@ -19,15 +19,16 @@ class BlogIndex extends React.Component {
           return (
             <article key={node.fields.slug}>
               <header>
-                <h3
-                  style={{
-                    marginBottom: rhythm(1 / 4),
-                  }}
-                >
-                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                  <h3
+                    className="link-decoration"
+                    style={{
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
                     {title}
-                  </Link>
-                </h3>
+                  </h3>
+                </Link>
                 <small>{node.frontmatter.date}</small>
               </header>
               <section>

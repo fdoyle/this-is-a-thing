@@ -33,6 +33,7 @@ class Layout extends React.Component {
     } else {
       header = (
         <h3
+        className="link-decoration"
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
