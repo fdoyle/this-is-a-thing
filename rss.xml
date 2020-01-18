@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[This is a Thing]]></title><description><![CDATA[Just pointing out stuff I think is cool and talking about it]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Jan 2020 21:07:58 GMT</lastBuildDate><item><title><![CDATA[Hardcore History]]></title><link>https://gatsby-starter-blog-demo.netlify.com/hardcore-history/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hardcore-history/</guid><pubDate>Fri, 17 Jan 2020 06:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[This is a Thing]]></title><description><![CDATA[Just pointing out stuff I think is cool and talking about it]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Jan 2020 01:36:12 GMT</lastBuildDate><item><title><![CDATA[Hardcore History]]></title><description><![CDATA[Dan Carlin isn’t a historian, he’s just a fan of history, and I can safely say that Hardcore History has turned me into a fan of history too…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/hardcore-history/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hardcore-history/</guid><pubDate>Fri, 17 Jan 2020 06:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 284px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/this-is-a-thing/static/83deb2ba7c1094119e728b960179614e/56cd2/hardcore-history.jpg&quot;
+    href=&quot;/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/3a5dd/DC_HH_iTunes.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 62.323943661971825%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGZ2m6FoTE//8QAGRABAQADAQAAAAAAAAAAAAAAAQACAxEE/9oACAEBAAEFAjT2y8wDpusZJdv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARAhESIx/9oACAEBAAY/AqZnYqOuP//EABwQAQACAwADAAAAAAAAAAAAAAEAESExQWGBkf/aAAgBAQABPyE3kdUQKPqpUlOdZ5GaIvcUuVn/2gAMAwEAAgADAAAAEGjv/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEA/9oACAEDAQE/EIBcTf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EFf/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRcYGh/9oACAEBAAE/EH1DdCrR59TdiLBZb68QriDbNcxV9mDUR0KLFS7Vn//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDBQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHie6qDkqxPoGYP/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECERIh/9oACAEBAAEFAlJwzlkUO1SvNnw7Y3p//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAEQITERIjL/2gAIAQEABj8CajlZMbFKQ/8A/8QAGxABAQACAwEAAAAAAAAAAAAAAQARUSFBYaH/2gAIAQEAAT8hTE6Z2IEyodiMoy9c2TxdyadvyVc3/9oADAMBAAIAAwAAABCE6L7/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARYf/aAAgBAwEBPxANOzG//8QAFxEAAwEAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxCmP//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExUXGBkaH/2gAIAQEAAT8QSOL1d/Mi2cE7DyTArMHSNHu8YbvE1+x1yYhq0iwr+4rVuTe8KWPjCitzxn//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;hardcore history&quot;
-        title=&quot;hardcore history&quot;
-        src=&quot;/this-is-a-thing/static/83deb2ba7c1094119e728b960179614e/56cd2/hardcore-history.jpg&quot;
-        srcset=&quot;/this-is-a-thing/static/83deb2ba7c1094119e728b960179614e/7237a/hardcore-history.jpg 148w,
-/this-is-a-thing/static/83deb2ba7c1094119e728b960179614e/56cd2/hardcore-history.jpg 284w&quot;
-        sizes=&quot;(max-width: 284px) 100vw, 284px&quot;
+        alt=&quot;DC HH iTunes&quot;
+        title=&quot;DC HH iTunes&quot;
+        src=&quot;/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/88218/DC_HH_iTunes.jpg&quot;
+        srcset=&quot;/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/7237a/DC_HH_iTunes.jpg 148w,
+/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/0cfdf/DC_HH_iTunes.jpg 295w,
+/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/88218/DC_HH_iTunes.jpg 590w,
+/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/77d57/DC_HH_iTunes.jpg 885w,
+/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/5a917/DC_HH_iTunes.jpg 1180w,
+/this-is-a-thing/static/1481bf735f120e8806be3d7670767482/3a5dd/DC_HH_iTunes.jpg 1400w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Forestry.io]]></title><description><![CDATA[So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/forestry-io/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/forestry-io/</guid><pubDate>Tue, 14 Jan 2020 06:00:00 GMT</pubDate><content:encoded>&lt;p&gt;So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is in, then tell it what kind of blog it is (gatsby, in my case), couple other things, and it handles your posts, post metadata, and images.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Dan Carlin isn’t a historian, he’s just a fan of history, and I can safely say that Hardcore History has turned me into a fan of history too. Easily my favorite discovery of 2019, definitely up there for favorite piece of media in general.&lt;/p&gt;
+&lt;p&gt;Check it out, it’s worth your time.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Forestry.io]]></title><description><![CDATA[So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/forestry-io/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/forestry-io/</guid><pubDate>Tue, 14 Jan 2020 06:00:00 GMT</pubDate><content:encoded>&lt;p&gt;So, forestry is pretty cool. It’s a web-based CMS that plugs into your git repo. Hook it up to your github, tell it what repo your blog is in, then tell it what kind of blog it is (gatsby, in my case), couple other things, and it handles your posts, post metadata, and images.&lt;/p&gt;
 &lt;p&gt;I’m not sure if I’ll stick with it forever, or if I’ll switch to one of the countless other services that do something similar, but for the moment I’m happy with it.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
